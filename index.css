@@ -41,7 +41,7 @@ body {
   display: inline-block;
 }
 .navbar li a {
-  color: whitesmoke;
+  color: orangered;
   text-decoration: none;
   padding: 35px 23px;
   font-family: cursive;
@@ -104,4 +104,8 @@ body {
 .cont button:hover {
   cursor: pointer;
   background-color: rgb(116, 76, 76);
+}
+.right button a {
+  color: black;
+  text-decoration-style: none;
 }

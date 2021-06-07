@@ -3,9 +3,10 @@
 body {
   margin: 0px;
   padding: 0px;
-  background: url("bg1.jpg");
-  background-size: cover;
+  background: url(bg1.jpg);
+  background-size: 1366px 657px;
   color: whitesmoke;
+  background-repeat: no-repeat;
 }
 .left {
   /* border: 2px solid red; */
